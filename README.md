@@ -4,7 +4,7 @@ Overview
 
 ## Description
 
--[DockerHub: shinyay/tomcat85-app](https://cloud.docker.com/repository/registry-1.docker.io/shinyay/tomcat85-app)
+- [DockerHub: shinyay/tomcat85-app](https://cloud.docker.com/repository/registry-1.docker.io/shinyay/tomcat85-app)
 
 ## Demo
 
